@@ -1,0 +1,26 @@
+
+
+
+PUNCH-IT!!
+
+To start, press the green or  blue buttons as the lights flash by.
+
+The lights in the middle will count down, time it right and make your move!
+
+BLUE: Left Punch: This will deal 25 damage to the opponent, provided it doesn’t dodge.
+
+GREEN: Right Punch: This will deal 25 damage to the opponent, provided it doesn’t dodge
+
+Back on the joystick: Guard, this will reduce the damage your opponent deals if it chooses to punch to 10
+
+Right on the joystick: Right dodge, if your opponent chooses Right Punch, it will take 25 damage instead.
+
+Left on the joystick: Left dodge, similar to Right Dodge, if your opponent picks Left Punch, it will take  25 damage instead of you.
+
+Do nothing: if you let your guard down your opponent will capitalize on this and you’ll take 30 damage.
+
+As you take damage your white lights will dim, as you deal damage your opponent’s red lights will dim. The first to dim the other’s lights wins!
+
+
+
+
