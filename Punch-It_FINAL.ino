@@ -2,7 +2,6 @@
 
 /*
  * Aldo Polanco
- * CS232
  * Punch-It
  * Note: some methods were initially class methods, but the program had trouble editing instance variables
  * from outside the class (even with class methods) unless the methods that edited them were not class methods
